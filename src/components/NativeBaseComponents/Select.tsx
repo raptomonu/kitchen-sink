@@ -18,7 +18,7 @@ export const Example = () => {
 					bg: 'gray.100',
 				}}
 				h="8px"
-				rounded="pill"
+				rounded={8}
 				w="40%"
 				mx={5}
 			/>

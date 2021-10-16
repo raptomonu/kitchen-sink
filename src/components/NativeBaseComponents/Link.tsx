@@ -21,7 +21,7 @@ export const Example = () => {
 				_dark={{
 					bg: 'gray.100',
 				}}
-				rounded="pill"
+				rounded={8}
 				h="11px"
 				mb={1}
 				w="100%"

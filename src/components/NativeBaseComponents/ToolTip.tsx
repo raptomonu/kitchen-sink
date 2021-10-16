@@ -24,7 +24,7 @@ export function Example() {
 					bg: 'gray.100',
 				}}
 				h="7px"
-				rounded="pill"
+				rounded={8}
 				w="100%"
 			/>
 

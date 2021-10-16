@@ -47,7 +47,7 @@ export const Example = () => {
 						bg: 'gray.100',
 					}}
 					h="8px"
-					rounded="pill"
+					rounded={8}
 					w="100%"
 				/>
 			</VStack>

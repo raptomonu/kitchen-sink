@@ -82,7 +82,7 @@ export function Example() {
 							bg: 'cyan.200',
 						}}
 						h="8px"
-						rounded="pill"
+						rounded={8}
 						w="80%"
 					/>
 					<Box
@@ -93,7 +93,7 @@ export function Example() {
 							bg: 'cyan.200',
 						}}
 						h="8px"
-						rounded="pill"
+						rounded={8}
 						w="80%"
 					/>
 					<Box
@@ -104,7 +104,7 @@ export function Example() {
 							bg: 'cyan.200',
 						}}
 						h="8px"
-						rounded="pill"
+						rounded={8}
 						w="80%"
 					/>
 				</VStack>

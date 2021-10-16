@@ -1,6 +1,7 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Home, Examples, MasonLayout } from '../screens';
+import { Text, View } from 'native-base';
 
 const Stack = createStackNavigator();
 
